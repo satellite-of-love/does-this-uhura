@@ -2,6 +2,8 @@
 
 Atomist Uhura, an SDM providing self service software delivery.
 
+futz futz
+
 Also forms the basis of user SDMs.
 
 This SDM is based on the [sdm-pack-analysis](https://github.com/atomist/sdm-pack-analysis)
